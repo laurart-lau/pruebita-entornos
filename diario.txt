@@ -2,3 +2,4 @@ Dia 1: iniciandome en Git
 Dia 2 Profundizando en los commits
 Dia 3: Explorando ramificaciones
 Dia 4: No puedo más
+Dia 5: No sé como estoy sobrevuviendo jeje
